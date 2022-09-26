@@ -1,0 +1,1272 @@
+fileFormatVersion: 2
+guid: 8a469a5023ad7534eb665009e5de6ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4850908785561484395
+    second: 4943302_bullet-png-laser-sprite-transparent-png_0
+  - first:
+      213: 3003286823025147878
+    second: 4943302_bullet-png-laser-sprite-transparent-png_1
+  - first:
+      213: 5025722382992639413
+    second: 4943302_bullet-png-laser-sprite-transparent-png_2
+  - first:
+      213: -4951931778045892
+    second: 4943302_bullet-png-laser-sprite-transparent-png_3
+  - first:
+      213: 4070634831332817532
+    second: 4943302_bullet-png-laser-sprite-transparent-png_4
+  - first:
+      213: 2458485251808243042
+    second: 4943302_bullet-png-laser-sprite-transparent-png_5
+  - first:
+      213: -8419286111944667889
+    second: 4943302_bullet-png-laser-sprite-transparent-png_6
+  - first:
+      213: -1342193733709404950
+    second: 4943302_bullet-png-laser-sprite-transparent-png_7
+  - first:
+      213: -93631045750529628
+    second: 4943302_bullet-png-laser-sprite-transparent-png_8
+  - first:
+      213: 7324077743076315335
+    second: 4943302_bullet-png-laser-sprite-transparent-png_9
+  - first:
+      213: -868790613192969065
+    second: 4943302_bullet-png-laser-sprite-transparent-png_10
+  - first:
+      213: -4548456144815417908
+    second: 4943302_bullet-png-laser-sprite-transparent-png_11
+  - first:
+      213: 2894463383726588794
+    second: 4943302_bullet-png-laser-sprite-transparent-png_12
+  - first:
+      213: -715902168096290383
+    second: 4943302_bullet-png-laser-sprite-transparent-png_13
+  - first:
+      213: -8962458804644997293
+    second: 4943302_bullet-png-laser-sprite-transparent-png_14
+  - first:
+      213: 897956978179021275
+    second: 4943302_bullet-png-laser-sprite-transparent-png_15
+  - first:
+      213: 8760574372594495929
+    second: 4943302_bullet-png-laser-sprite-transparent-png_16
+  - first:
+      213: -9098081269938880657
+    second: 4943302_bullet-png-laser-sprite-transparent-png_17
+  - first:
+      213: 5164406017902801153
+    second: 4943302_bullet-png-laser-sprite-transparent-png_18
+  - first:
+      213: -2625368694224946483
+    second: 4943302_bullet-png-laser-sprite-transparent-png_19
+  - first:
+      213: 4037649018736783147
+    second: 4943302_bullet-png-laser-sprite-transparent-png_20
+  - first:
+      213: -5135806683791228967
+    second: 4943302_bullet-png-laser-sprite-transparent-png_21
+  - first:
+      213: -5854690519454910531
+    second: 4943302_bullet-png-laser-sprite-transparent-png_22
+  - first:
+      213: 3089559522122268096
+    second: 4943302_bullet-png-laser-sprite-transparent-png_23
+  - first:
+      213: -1949581137657642994
+    second: 4943302_bullet-png-laser-sprite-transparent-png_24
+  - first:
+      213: -730515743072668341
+    second: 4943302_bullet-png-laser-sprite-transparent-png_25
+  - first:
+      213: -3493478319557199178
+    second: 4943302_bullet-png-laser-sprite-transparent-png_26
+  - first:
+      213: 3802505210813469897
+    second: 4943302_bullet-png-laser-sprite-transparent-png_27
+  - first:
+      213: -7768131478496769249
+    second: 4943302_bullet-png-laser-sprite-transparent-png_28
+  - first:
+      213: 4374481422345383642
+    second: 4943302_bullet-png-laser-sprite-transparent-png_29
+  - first:
+      213: 7126820512294521276
+    second: 4943302_bullet-png-laser-sprite-transparent-png_30
+  - first:
+      213: -8290863327138266176
+    second: 4943302_bullet-png-laser-sprite-transparent-png_31
+  - first:
+      213: 3045778304337861251
+    second: 4943302_bullet-png-laser-sprite-transparent-png_32
+  - first:
+      213: -5724778636838074534
+    second: 4943302_bullet-png-laser-sprite-transparent-png_33
+  - first:
+      213: 1095251067131701242
+    second: 4943302_bullet-png-laser-sprite-transparent-png_34
+  - first:
+      213: -2690031525957277054
+    second: 4943302_bullet-png-laser-sprite-transparent-png_35
+  - first:
+      213: -1812662996313483092
+    second: 4943302_bullet-png-laser-sprite-transparent-png_36
+  - first:
+      213: 7984099504761422112
+    second: 4943302_bullet-png-laser-sprite-transparent-png_37
+  - first:
+      213: -426647789057933936
+    second: 4943302_bullet-png-laser-sprite-transparent-png_38
+  - first:
+      213: 3647611477972859562
+    second: 4943302_bullet-png-laser-sprite-transparent-png_39
+  - first:
+      213: 5575913291367136869
+    second: 4943302_bullet-png-laser-sprite-transparent-png_40
+  - first:
+      213: 7342760755603453299
+    second: 4943302_bullet-png-laser-sprite-transparent-png_41
+  - first:
+      213: -7558643036814169254
+    second: 4943302_bullet-png-laser-sprite-transparent-png_42
+  - first:
+      213: 938189994099556185
+    second: 4943302_bullet-png-laser-sprite-transparent-png_43
+  - first:
+      213: -440446943742631209
+    second: 4943302_bullet-png-laser-sprite-transparent-png_44
+  - first:
+      213: 5749297090023823389
+    second: 4943302_bullet-png-laser-sprite-transparent-png_45
+  - first:
+      213: -4642066238374359662
+    second: 4943302_bullet-png-laser-sprite-transparent-png_46
+  - first:
+      213: 676505661865550738
+    second: 4943302_bullet-png-laser-sprite-transparent-png_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 731
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59349c6292c1eacb0800000000000000
+      internalID: -4850908785561484395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 749
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef76051471dda920800000000000000
+      internalID: 3003286823025147878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 722
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5810241e3feb540800000000000000
+      internalID: 5025722382992639413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 740
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c38ea698e386eeff0800000000000000
+      internalID: -4951931778045892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 729
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7abcebdfcccd7830800000000000000
+      internalID: 4070634831332817532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_5
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 747
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d21979f4b4e1220800000000000000
+      internalID: 2458485251808243042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_6
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 633
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d882373efa82b80800000000000000
+      internalID: -8419286111944667889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_7
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 682
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4ee7219e19f5de0800000000000000
+      internalID: -1342193733709404950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_8
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 699
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1671a5f0b53bef0800000000000000
+      internalID: -93631045750529628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 673
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0986717e954a560800000000000000
+      internalID: 7324077743076315335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_10
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 690
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79470745a8f61f3f0800000000000000
+      internalID: -868790613192969065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_11
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 680
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc595db2c33a0e0c0800000000000000
+      internalID: -4548456144815417908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 697
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73066aac133b2820800000000000000
+      internalID: 2894463383726588794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 542
+        width: 104
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b940b865ca9016f0800000000000000
+      internalID: -715902168096290383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 622
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357101bc333fe9380800000000000000
+      internalID: -8962458804644997293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 635
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd991f33d1f267c00800000000000000
+      internalID: 897956978179021275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 613
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b1b2e2f9ffc39970800000000000000
+      internalID: 8760574372594495929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_17
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 626
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f78a7e94f1db180800000000000000
+      internalID: -9098081269938880657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_18
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 620
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1017cfc39e7aba740800000000000000
+      internalID: 5164406017902801153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_19
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 633
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca7a481511d09bd0800000000000000
+      internalID: -2625368694224946483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 529
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fa281e36c980830800000000000000
+      internalID: 4037649018736783147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_21
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 547
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dffb812803f9b8b0800000000000000
+      internalID: -5135806683791228967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 538
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7fa06fdf5ffbea0800000000000000
+      internalID: -5854690519454910531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_23
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 556
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf584240250ea20800000000000000
+      internalID: 3089559522122268096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 541
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e004d1dd842b1f4e0800000000000000
+      internalID: -1949581137657642994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 560
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b2575dcfacd5f0800000000000000
+      internalID: -730515743072668341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_26
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 453
+        width: 90
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bab3444afba48fc0800000000000000
+      internalID: -3493478319557199178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 480
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4db1bb75635c430800000000000000
+      internalID: 3802505210813469897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_28
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 498
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b8bafd39d023490800000000000000
+      internalID: -7768131478496769249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_29
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 489
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade21773da745bc30800000000000000
+      internalID: 4374481422345383642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_30
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 506
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb948451f7d87e260800000000000000
+      internalID: 7126820512294521276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 492
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c34c981bbfe0fc80800000000000000
+      internalID: -8290863327138266176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 510
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a56a60b37c44a20800000000000000
+      internalID: 3045778304337861251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 421
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57858539208d80b0800000000000000
+      internalID: -5724778636838074534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 433
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7a04cea0d133f00800000000000000
+      internalID: 1095251067131701242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 429
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae6bc54961baad0800000000000000
+      internalID: -2690031525957277054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 442
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca85d37db9028d6e0800000000000000
+      internalID: -1812662996313483092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_37
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 433
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0214da0b2383dce60800000000000000
+      internalID: 7984099504761422112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_38
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 445
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dfef8a81e341af0800000000000000
+      internalID: -426647789057933936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_39
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 287
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaab537305bee9230800000000000000
+      internalID: 3647611477972859562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_40
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 270
+        width: 75
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e3156989f916d40800000000000000
+      internalID: 5575913291367136869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_41
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 275
+        width: 67
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753c6ce00ab6e560800000000000000
+      internalID: 7342760755603453299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_42
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 263
+        width: 75
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b26b6943e4a1790800000000000000
+      internalID: -7558643036814169254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_43
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 275
+        width: 71
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f312234de150d00800000000000000
+      internalID: 938189994099556185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_44
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 105
+        width: 92
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d260d796d733e9f0800000000000000
+      internalID: -440446943742631209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_45
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 126
+        width: 58
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d189e070e3b99cf40800000000000000
+      internalID: 5749297090023823389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_46
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 82
+        width: 80
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29dccd5d951149fb0800000000000000
+      internalID: -4642066238374359662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4943302_bullet-png-laser-sprite-transparent-png_47
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 75
+        width: 92
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2936900b05e636900800000000000000
+      internalID: 676505661865550738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
